@@ -179,6 +179,15 @@ Python Report: [https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/
 7. Min (9.91°C) seems too low Generator bearings should rarely operate below ambient – this could be a sensor fault or downtime reading. 
 
 
+### Business Insights:
+1. The most common operational wind speed ( 0-25 m/s), which might be ideal for power generation. It indicates where turbines are most effective.
+2. The presence of occasional high wind speeds (30–50 m/s) could trigger emergency brakes, increasing wear and tear.
+3. Wind speed should not be negative. Urgent need to review sensor calibration or data quality procedures otherwise it will cause a problem.
+4. Power generation doesn’t keep pace with available wind during some periods. Investigate turbine calibration or yaw misalignment.
+5. Wind Turbine not failed at Power generation of 6.96 kW, which recorded on 29th Dec 2023. So, the limit of power generation is 6.96 kW, beyond that turbine will fail.
+6. There are unrealistic for nacelle temperatures, possibly sensor errors, unit mismatch, or corrupt data entries. 
+7. The limit of Nacelle_Ambient_Temp of 106.16 °C, beyond that turbine will fail.
+8. Wind Turbine not failed at Generator_Bearing_Temp of 98.98°C, which recorded on 16th Jun 2023. So, the limit of Generator_Bearing_Temp of 98.98°C, beyond that turbine will fail. 
 
 
 
