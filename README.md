@@ -124,6 +124,27 @@ Python EDA & Preprocessing: [https://github.com/soma-ramesh/Analysis-of-Wind-Tur
 SQL Report: [https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/blob/main/EDA_Report/AWTF_SQL_Report.pdf]
 
 Univariate Analysis:
+<h3>Univariate Analysis</h3>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3cc6af27-d25e-4c15-86f3-f56552b8ed9d" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/090329c5-50d8-46cf-8a96-c0520ff754bb" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/19170fc6-56ba-42a8-9c65-94eff54ad8fa" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b875e815-632e-4577-8f66-cc00145f3765" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d1f5cffa-0334-444d-b34f-70805d553baf" width="300"/></td>
+    <td></td>
+  </tr>
+</table>
+
+
+
+
+
 ![Pie Chart_Failure Status](https://github.com/user-attachments/assets/3cc6af27-d25e-4c15-86f3-f56552b8ed9d)
 ![Rotor_Speed](https://github.com/user-attachments/assets/090329c5-50d8-46cf-8a96-c0520ff754bb)
 ![Wind_Speed](https://github.com/user-attachments/assets/19170fc6-56ba-42a8-9c65-94eff54ad8fa)
