@@ -139,6 +139,21 @@ Univariate Analysis:
 </table>
 
 
+Bivariate Analysis:
+<h3>Bivariate Analysis</h3>
+
+<table>
+  <tr>
+    <td><img src="![Generator_Speed](https://github.com/user-attachments/assets/4bd99cf6-c0d6-41e0-9603-798889615537)" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/090329c5-50d8-46cf-8a96-c0520ff754bb" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/19170fc6-56ba-42a8-9c65-94eff54ad8fa" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/d1f5cffa-0334-444d-b34f-70805d553baf" width="300"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b875e815-632e-4577-8f66-cc00145f3765" width="300"/></td>
+  </tr></td>
+</table>
+
 
 
 
