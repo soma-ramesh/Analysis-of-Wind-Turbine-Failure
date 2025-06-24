@@ -51,6 +51,31 @@ Please refer Business Problem & Business Objective.
 ## Project Architecture:
 ![image](https://github.com/user-attachments/assets/82e513bd-8da5-4e44-b6de-d42197b6bec9)
 
+---------------------------------
+
+## Data Understanding:
+explored the collected data from client to understand their structure, characteristics
+- Data Type: Structured Data
+- Data Format: CSV
+- Data Size: ~ 640 KB
+- Data Shape: 3600 * 16
+- Dimensions: 2 Features
+- Measures: 14 Features
+- Independent Variables: 15 Features
+- Dependent Variables: 1 Feature
+
+## Data Dictionary:
+
+---------------------------------
+
+
+
+
+
+
+
+
+
 
 
 
