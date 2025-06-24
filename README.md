@@ -49,7 +49,8 @@ Please refer Business Problem & Business Objective.
 ---------------------------------
 
 ## Project Architecture:
-![image](https://github.com/user-attachments/assets/cbe083ff-4c92-4c3f-9e45-20442dc56f20)
+![image](https://github.com/user-attachments/assets/82e513bd-8da5-4e44-b6de-d42197b6bec9)
+
 
 
 
