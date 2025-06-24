@@ -195,5 +195,12 @@ Python Report: [https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/
 ----------------------------------------
 
 # Data Visualization:
+## Power BI Dashboard (Video Demo)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/aa7abf93-63e0-44a1-b368-25ddc4329e45" width="500"/></td>
+    <td><img src="https://github.com/user-attachments/assets/bad481dd-1d1a-43dc-b55e-901fddcb16f5" width="500"/></td>
+  </tr></td>
+</table>
 
-https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/blob/main/Power%20BI/Power%20BI%20Dashboard.mp4
+🔗 Video: [https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/blob/main/Power%20BI/Power%20BI%20Dashboard.mp4]
