@@ -147,8 +147,6 @@ SQL Report: [https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/blo
 
 
 ### Bivariate Analysis:
-<h3>Bivariate Analysis</h3>
-
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/4bd99cf6-c0d6-41e0-9603-798889615537" width="500"/></td>
@@ -162,8 +160,6 @@ SQL Report: [https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/blo
 
 
 ### Multivariate Analysis:
-<h3>Multivariate Analysis</h3>
-
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/8b9dbbdb-a69c-47f3-bdbe-717c4a35111d" width="500"/></td>
