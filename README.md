@@ -117,6 +117,15 @@ SQL EDA: [https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/blob/m
 
 Python EDA & Preprocessing: [https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/blob/main/Python_EDA/EDA_Preprocessed_AWTF.py]
 
+### Data Preprocessing:
+- Type Conversion
+- Column Rename
+- Handling Duplicates
+- Outlier Treatment
+- Discretization
+- Transformation
+- Feature Scaling
+
 --------------------------------------
 
 # EDA Report:
