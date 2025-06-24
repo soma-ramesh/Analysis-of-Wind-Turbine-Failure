@@ -16,7 +16,7 @@ Note: This project was conducted as part of a data analytics internship to extra
 
 ----------------------------
 
-## 🎯 Project Goals:
+## Project Goals:
 - Minimize unexpected wind turbine engine failures
 - Maintain optimal power generation efficiency
 - Achieve cost saving by reducing the unplanned downtime
@@ -33,9 +33,17 @@ This project involves analyzing historical wind turbine data (sensor logs, failu
 
 ---------------------------------
 
+## Project Workflow:
+- Business Understanding
+- Project Architecture
+- Data Understanding
+- Exploratory Data Analysis
+- Data Preprocessing
+- Data Visualization
 
 
 
+---------------------------------
 
 ## 🔍 Key Highlights
 
