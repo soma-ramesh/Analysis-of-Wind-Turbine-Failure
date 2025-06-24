@@ -10,7 +10,7 @@
 Unplanned failure of wind turbine engines is leading to huge losses and negatively impacting electricity generation.
 
 ## Business Objective:
-To analyze operational and failure log data from wind turbines to reduce unplanned downtime by 30% while maximizing power generation efficiency, and to Achieve a cost saving of at least $2M per year due to the reduction of unplanned downtime, enabling data-driven decisions and supporting predictive maintenance strategies.
+To analyze operational and failure log data from wind turbines to reduce unplanned downtime by 30% while maximizing power generation efficiency, and to achieve a cost saving of at least $2M per year due to the reduction of unplanned downtime, enabling data-driven decisions and supporting predictive maintenance strategies.
 
 Note: This project was conducted as part of a data analytics internship to extract insights from historical turbine data, identify performance issues, and support proactive maintenance planning.
 
