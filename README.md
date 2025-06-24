@@ -41,9 +41,17 @@ This project involves analyzing historical wind turbine data (sensor logs, failu
 - Data Preprocessing
 - Data Visualization
 
+---------------------------------
 
+## Business Understanding:
+Please refer Business Problem & Business Objective.
 
 ---------------------------------
+
+## Project Architecture:
+![image](https://github.com/user-attachments/assets/cbe083ff-4c92-4c3f-9e45-20442dc56f20)
+
+
 
 ## 🔍 Key Highlights
 
