@@ -106,7 +106,7 @@ explored the collected data from client to understand their structure, character
 ## Tools Used: 
 - Python [ NumPy, Pandas, Matplotlib, Seaborn ]
 - MySQL
-- Auto EDA [ 
+- Auto EDA 
 
 
 ## Approach Used: 
