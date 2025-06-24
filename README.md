@@ -194,4 +194,4 @@ Python Report: [https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/
 
 
 
-
+https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/blob/main/Power%20BI/Power%20BI%20Dashboard.mp4
