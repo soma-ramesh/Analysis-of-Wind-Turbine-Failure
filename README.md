@@ -105,9 +105,19 @@ explored the collected data from client to understand their structure, character
 
 ## Tools Used: 
 - Python [ NumPy, Pandas, Matplotlib, Seaborn ]
-- MySQL
+- MySQL 
+## Approach Used: 
+- Statistical Analysis
+- Visual Analysis
+
+SQL EDA: [https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/blob/main/SQL_EDA/AWTF_SQL_EDA.sql]
 
 
+
+
+
+
+  
   
 
 
