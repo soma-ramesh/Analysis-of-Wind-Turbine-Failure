@@ -123,7 +123,7 @@ Python EDA & Preprocessing: [https://github.com/soma-ramesh/Analysis-of-Wind-Tur
 ![image](https://github.com/user-attachments/assets/b3c8ef1b-430f-4648-bbe3-177224b1b9a7)
 SQL Report: [https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/blob/main/EDA_Report/AWTF_SQL_Report.pdf]
 
-Univariate Analysis:
+### Univariate Analysis:
 <h3>Univariate Analysis</h3>
 
 <table>
@@ -139,7 +139,7 @@ Univariate Analysis:
 </table>
 
 
-Bivariate Analysis:
+### Bivariate Analysis:
 <h3>Bivariate Analysis</h3>
 
 <table>
@@ -154,7 +154,7 @@ Bivariate Analysis:
 </table>
 
 
-Multivariate Analysis:
+### Multivariate Analysis:
 <h3>Multivariate Analysis</h3>
 
 <table>
@@ -164,7 +164,19 @@ Multivariate Analysis:
   </tr></td>
 </table>
 
+Python Report: [https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/blob/main/EDA_Report/AWTF_Python_EDA_Report.xlsx]
 
+--------------------------------------
+
+# Key Insights:
+### Statistical Insights:
+1. A large portion of wind speeds is clustered between 5 and 25 Less frequent occurrences of wind speeds above 30 (likely outliers or rare events).
+2. High Variance (174.29) and Standard Deviation (13.20 m/s) shows, wind speeds are widely spread out from the mean.
+3. Power generation is positively skewed and a large portion of power is clustered between 1 to  3.5 kW.
+4. Mean = 3.313 kW, Mode = 1.982 kW indicating, Turbines frequently operate in low-power zones, likely due to moderate wind conditions or operational constraints.
+5. The data for Nacelle_Ambient_Temp looks normally distributed but the distribution is slightly right-skewed. The temperature ranges approximately from -200°C to +300°C, though most values fall in a narrower range.
+6. The Distribution of Generator bearing temperature slightly left-skewed and A large portion of the temperature clustered between 60°C to 100°C.
+7. Min (9.91°C) seems too low Generator bearings should rarely operate below ambient – this could be a sensor fault or downtime reading. 
 
 
 
