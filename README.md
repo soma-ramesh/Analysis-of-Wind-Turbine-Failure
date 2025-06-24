@@ -6,17 +6,17 @@
 
 ![image](https://github.com/user-attachments/assets/1a3e19e3-16cc-46da-bd10-b1378db5c293)
 
-## Business Problem:
+# Business Problem:
 Unplanned failure of wind turbine engines is leading to huge losses and negatively impacting electricity generation.
 
-## Business Objective:
+# Business Objective:
 To analyze operational and failure log data from wind turbines to reduce unplanned downtime by 30% while maximizing power generation efficiency, and to achieve a cost saving of at least $2M per year due to the reduction of unplanned downtime, enabling data-driven decisions and supporting predictive maintenance strategies.
 
 Note: This project was conducted as part of a data analytics internship to extract insights from historical turbine data, identify performance issues, and support proactive maintenance planning.
 
 ----------------------------
 
-## Project Goals:
+# Project Goals:
 - Minimize unexpected wind turbine engine failures
 - Maintain optimal power generation efficiency
 - Achieve cost saving by reducing the unplanned downtime
@@ -25,15 +25,15 @@ Note: This project was conducted as part of a data analytics internship to extra
 
 ----------------------------------
 
-## Project Overview:
+# Project Overview:
 Wind turbines are critical components in renewable energy production. However, unplanned failures of turbine components - especially the engine, gearbox, or blades - can result in significant financial losses, operational disruptions, and decreased power generation efficiency. This project aims to conduct a comprehensive data-driven analysis of turbine failure patterns, identify key failure causes, and deliver actionable insights through dashboards and reports. The ultimate goal is to enable predictive maintenance strategies, reduce unplanned downtimes, and support data-backed decision-making for improved turbine reliability and performance.
 
-## Project Scope:
+# Project Scope:
 This project involves analyzing historical wind turbine data (sensor logs, failure records, and maintenance logs) to identify the root causes of unplanned failures. The focus is on data cleaning, exploratory analysis, and visualization of failure trends using BI tools like Power BI or Tableau. The outcome will help maintenance teams reduce downtime and make informed decisions for preventive actions.
 
 ---------------------------------
 
-## Project Workflow:
+# Project Workflow:
 This project follows the Data Analytics Project Management Methodology to ensure a structured, insight-driven approach to wind turbine failure analysis.I applied each stage iteratively, focusing on business relevance, data quality, and actionable insights to deliver a reliable data analytics solution that supports preventive maintenance and operational efficiency.
 
 - Business Understanding
@@ -45,17 +45,17 @@ This project follows the Data Analytics Project Management Methodology to ensure
 
 ---------------------------------
 
-## Business Understanding:
+# Business Understanding:
 Please refer Business Problem & Business Objective.
 
 ---------------------------------
 
-## Project Architecture:
+# Project Architecture:
 ![image](https://github.com/user-attachments/assets/82e513bd-8da5-4e44-b6de-d42197b6bec9)
 
 ---------------------------------
 
-## Data Understanding:
+# Data Understanding:
 explored the collected data from client to understand their structure, characteristics
 - Data Type: Structured Data
 - Data Format: CSV
@@ -66,7 +66,7 @@ explored the collected data from client to understand their structure, character
 - Independent Variables: 15 Features
 - Dependent Variables: 1 Feature
 
-## Data Dictionary:
+# Data Dictionary:
 -Date: Timestamp of recorded measurement, YYYY-MM-DD 
 
 -Wind_Speed: Speed of the wind that influences turbine operation meters per second (m/s) 
@@ -78,20 +78,37 @@ explored the collected data from client to understand their structure, character
 -Generator_Bearing_Temp:  Temperature of bearings inside the generator Degrees Celsius (°C) 
 
 -Gear_Oil_Temp:  Temperature of the gear oil used for lubrication in the gearbox Degrees Celsius (°C) 
+
 -Ambient_Temp:  External environmental temperature surrounding the wind turbine Degrees Celsius (°C) 
+
 -Rotor_Speed:  Speed of the rotor blades spinning in response to wind Revolutions per minute (RPM) 
+
 -Nacelle_Temp:  Overall internal temperature inside the nacelle   Degrees Celsius (°C) 
+
 -Bearing_Temp:  Temperature of the main shaft bearings Degrees Celsius (°C) 
+
 -Generator_Speed:  Rotational speed of the generator shaft Revolutions per minute (RPM) 
+
 -Yaw_Angle:  Orientation angle of the wind turbine relative to the wind direction Degrees (°) 
--Wind_Direction:  The direction from which the wind is blowing Degrees (°) [0° = North, 90° = East, 180° = South, 270° = West]  
+
+-Wind_Direction:  The direction from which the wind is blowing Degrees (°) [0° = North, 90° = East, 180° = South, 270° = West] 
+
 -Wheel_Hub_Temp:  Temperature at the wheel hub which connects the rotor to the main shaft Degrees Celsius (°C) 
+
 -Gearbox_Inlet_Temp:  Temperature of the gearbox at the oil inlet Degrees Celsius (°C) 
+
 -Failure_Status:  Indicator of wind turbine failure based on operational conditions Binary (0 = No Failure, 1 = Failure)
 
 ---------------------------------
 
+# Exploratory Data Analysis:
 
+Tools Used: 
+- Python [ NumPy, Pandas, Matplotlib, Seaborn ]
+- MySQL
+
+
+  
 
 
 
