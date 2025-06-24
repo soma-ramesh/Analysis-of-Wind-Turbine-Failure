@@ -133,8 +133,6 @@ Python EDA & Preprocessing: [https://github.com/soma-ramesh/Analysis-of-Wind-Tur
 SQL Report: [https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/blob/main/EDA_Report/AWTF_SQL_Report.pdf]
 
 ### Univariate Analysis:
-<h3>Univariate Analysis</h3>
-
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/3cc6af27-d25e-4c15-86f3-f56552b8ed9d" width="300"/></td>
