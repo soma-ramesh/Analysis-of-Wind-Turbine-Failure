@@ -192,6 +192,8 @@ Python Report: [https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/
 7. The limit of Nacelle_Ambient_Temp of 106.16 °C, beyond that turbine will fail.
 8. Wind Turbine not failed at Generator_Bearing_Temp of 98.98°C, which recorded on 16th Jun 2023. So, the limit of Generator_Bearing_Temp of 98.98°C, beyond that turbine will fail. 
 
+----------------------------------------
 
+# Data Visualization:
 
 https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/blob/main/Power%20BI/Power%20BI%20Dashboard.mp4
