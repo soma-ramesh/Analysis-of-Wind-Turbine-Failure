@@ -154,12 +154,15 @@ Bivariate Analysis:
 </table>
 
 
+Multivariate Analysis:
+<h3>Multivariate Analysis</h3>
 
-
-
-
-
-
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/8b9dbbdb-a69c-47f3-bdbe-717c4a35111d" width="500"/></td>
+    <td><img src="https://github.com/user-attachments/assets/728fe763-cf4a-497d-aaf7-76c671668e78" width="500"/></td>
+  </tr></td>
+</table>
 
 
 
