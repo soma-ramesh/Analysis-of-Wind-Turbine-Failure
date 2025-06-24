@@ -130,26 +130,18 @@ Univariate Analysis:
   <tr>
     <td><img src="https://github.com/user-attachments/assets/3cc6af27-d25e-4c15-86f3-f56552b8ed9d" width="300"/></td>
     <td><img src="https://github.com/user-attachments/assets/090329c5-50d8-46cf-8a96-c0520ff754bb" width="300"/></td>
-  </tr>
-  <tr>
     <td><img src="https://github.com/user-attachments/assets/19170fc6-56ba-42a8-9c65-94eff54ad8fa" width="300"/></td>
-    <td><img src="https://github.com/user-attachments/assets/b875e815-632e-4577-8f66-cc00145f3765" width="300"/></td>
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/d1f5cffa-0334-444d-b34f-70805d553baf" width="300"/></td>
-    <td></td>
-  </tr>
+    <td><img src="https://github.com/user-attachments/assets/b875e815-632e-4577-8f66-cc00145f3765" width="300"/></td>
+  </tr></td>
 </table>
 
 
 
 
 
-![Pie Chart_Failure Status](https://github.com/user-attachments/assets/3cc6af27-d25e-4c15-86f3-f56552b8ed9d)
-![Rotor_Speed](https://github.com/user-attachments/assets/090329c5-50d8-46cf-8a96-c0520ff754bb)
-![Wind_Speed](https://github.com/user-attachments/assets/19170fc6-56ba-42a8-9c65-94eff54ad8fa)
-![Ambient_Temp](https://github.com/user-attachments/assets/b875e815-632e-4577-8f66-cc00145f3765)
-![Gear_Oil_Temp](https://github.com/user-attachments/assets/d1f5cffa-0334-444d-b34f-70805d553baf)
 
 
 
