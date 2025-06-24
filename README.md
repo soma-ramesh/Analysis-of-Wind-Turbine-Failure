@@ -114,6 +114,7 @@ explored the collected data from client to understand their structure, character
 - Visual Analysis
 
 SQL EDA: [https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/blob/main/SQL_EDA/AWTF_SQL_EDA.sql]
+
 Python EDA & Preprocessing: [https://github.com/soma-ramesh/Analysis-of-Wind-Turbine-Failure/blob/main/Python_EDA/EDA_Preprocessed_AWTF.py]
 
 --------------------------------------
