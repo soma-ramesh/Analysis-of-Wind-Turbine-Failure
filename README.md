@@ -34,7 +34,7 @@ This project involves analyzing historical wind turbine data (sensor logs, failu
 ---------------------------------
 
 # Project Workflow:
-This project follows the Data Analytics Project Management Methodology to ensure a structured, insight-driven approach to wind turbine failure analysis.I applied each stage iteratively, focusing on business relevance, data quality, and actionable insights to deliver a reliable data analytics solution that supports preventive maintenance and operational efficiency.
+This project follows the Data Analytics Project Management Methodology to ensure a structured, insight-driven approach to wind turbine failure analysis. I applied each stage iteratively, focusing on business relevance, data quality, and actionable insights to deliver a reliable data analytics solution that supports preventive maintenance and operational efficiency.
 
 - Business Understanding
 - Project Architecture
@@ -103,7 +103,7 @@ explored the collected data from client to understand their structure, character
 
 # Exploratory Data Analysis:
 
-Tools Used: 
+## Tools Used: 
 - Python [ NumPy, Pandas, Matplotlib, Seaborn ]
 - MySQL
 
